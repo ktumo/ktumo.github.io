@@ -6,9 +6,9 @@ categories: Python
 tags: [Python, intro, certificate]
 ---
 
-## Introduction to Python
+## welcome to techexpert
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+This post is meant to create awareness of the platform to learn get skills suitable for your personal growth and passion *Introduction to Techexpert academy*
 ## Everything tech and geoscience
 this explains more about geology and technology
 
