@@ -9,6 +9,8 @@ tags: [Python, intro, certificate]
 ## Introduction to Python
 
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+## Everything tech and geoscience
+this explains more about geology and technology
 
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
