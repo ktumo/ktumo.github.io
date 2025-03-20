@@ -40,15 +40,15 @@ author: Kevin Toroitich
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2025-{currentYear} {author}"
+copyright: "unpublishedwork (cleft) 2025-{22025} {Kevin}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   
   I am a geologist with a passion for technology, machine learning, and cloud computing. My journey combines the exploration of Earth sciences with cutting-edge technological advancements. By leveraging the power of machine learning and cloud computing, I aim to unlock new insights and drive innovation in the field of geology. Join me as we explore the fascinating world of geosciences through the lens of modern technology.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+baseurl: "homeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee" # the subpath of your site, e.g. /blog
+url: "https://ktumo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "kevintumo" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
